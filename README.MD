@@ -29,6 +29,10 @@ If you're not comfortable downloading a random `.dll` from a stranger on the int
 3. `dotnet build`
 
 ---
+## TODO
+1. Allow renaming of save files in-game.
+2. Drink more coffee.
+---
 ## Considerations
 - Shoutout to ChatGPT and Claude3.5 for always being homies. <3
 - I probably didn't get every edge case (though I got a bunch of them). 
